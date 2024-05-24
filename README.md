@@ -1,2 +1,2 @@
 # vr-wheel
-Emulating a steering wheel using hand tracking
+Simulating a steering wheel using hand tracking
